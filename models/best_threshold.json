@@ -1,0 +1,1 @@
+[{"best_model": "LogisticRegression", "best_threshold": 0.6666666666666667, "f1-score": 0.8593122079472155}, {"best_model": "RandomForestClassifier", "best_threshold": 0.6363636363636365, "f1-score": 0.9279840610365604}, {"best_model": "KNN", "best_threshold": 0.5050505050505051, "f1-score": 0.8618222892545848}]
