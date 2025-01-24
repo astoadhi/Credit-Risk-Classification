@@ -8,7 +8,7 @@ So this project aim is to predict the loan status (default or non-default) based
 
 The team faces a critical challenge: how to effectively predict the likelihood of loan defaults. Incorrectly assessing risk can lead to significant financial losses for lenders, while overly stringent criteria can exclude deserving borrowers.
 
-# The Solution:
+# The Solution
 
 The author collect some data from [kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data), including borrower demographics (age, income, employment), loan characteristics (amount, interest rate, purpose), and credit history information.
 
