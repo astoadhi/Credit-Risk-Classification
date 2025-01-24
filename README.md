@@ -10,7 +10,7 @@ The team faces a critical challenge: how to effectively predict the likelihood o
 
 # The Solution:
 
-The author collect some data from ![kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data), including borrower demographics (age, income, employment), loan characteristics (amount, interest rate, purpose), and credit history information.
+The author collect some data from [kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data), including borrower demographics (age, income, employment), loan characteristics (amount, interest rate, purpose), and credit history information.
 
 # Feature Engineering
 
@@ -29,7 +29,6 @@ After selecting the optimal model, the data scientists delve into its inner work
 
 Once the model is validated, it is integrated into the loan application process. The model provides real-time risk assessments for each application, enabling underwriters to make more informed decisions.
 The data-driven approach yields remarkable results. It reduces loan defaults while expanding access to credit for a wider range of borrowers. This not only strengthens the financial health of lenders but also contributes to economic growth and social inclusion.
-
 This story highlights the power of data science in transforming the lending industry. By leveraging data-driven insights, lenders can make more informed, fair, and sustainable lending decisions.
 
 # Technical Requirements
