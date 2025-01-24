@@ -27,8 +27,8 @@ After selecting the optimal model, the data scientists delve into its inner work
 
 # Deployment 
 
-Once the model is validated, it is integrated into the loan application process. The model provides real-time risk assessments for each application, enabling underwriters to make more informed decisions.
-The data-driven approach yields remarkable results. It reduces loan defaults while expanding access to credit for a wider range of borrowers. This not only strengthens the financial health of lenders but also contributes to economic growth and social inclusion.
+Once the model is validated, it is integrated into the loan application process. The model provides real-time risk assessments for each application, enabling underwriters to make more informed decisions.![](https://github.com/astoadhi/Credit-Risk-Classification/blob/main/images/credit%20risk%20prediction.png)
+
 This story highlights the power of data science in transforming the lending industry. By leveraging data-driven insights, lenders can make more informed, fair, and sustainable lending decisions.
 
 # Technical Requirements
